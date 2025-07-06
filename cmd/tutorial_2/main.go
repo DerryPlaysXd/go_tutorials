@@ -36,4 +36,7 @@ func main(){
 
 	var myBoolean bool = false
 	fmt.Println(myBoolean)
+	const myConst string = "const value"
+	fmt.Println(myConst)
+	const pi float32=3.14159
 }
